@@ -33,5 +33,6 @@ output application/java
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="250225d2-bd77-4fbc-882f-b898868cec43" />
 		<logger level="INFO" doc:name="Logger" doc:id="bde155bc-c13f-4ab8-a6af-78d0f000ec02" />
+		<logger level="INFO" doc:name="Logger" doc:id="694fcd5b-eba8-41cd-a391-6bf10eeb69a5" />
 	</flow>
 </mule>
