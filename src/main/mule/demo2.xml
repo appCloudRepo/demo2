@@ -21,5 +21,6 @@ output application/java
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="c91a486d-08d3-4796-95bb-9fcaa843da46" />
 		<logger level="INFO" doc:name="Logger" doc:id="14dde992-d81a-4e8f-9be8-7e954c20f801" />
+		<logger level="INFO" doc:name="Logger" doc:id="13c67b12-201f-4f1f-9707-822a87d21ef3" />
 	</flow>
 </mule>
